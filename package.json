@@ -1,0 +1,10 @@
+{
+    "name": "@deno/teste-deno-api",
+    "type": "module",
+    "scripts": {
+      "dev": "deno run --allow-env --allow-sys main.ts"
+    },
+    "dependencies": {
+      "node-fetch": "^3.3.1"
+    }
+  }

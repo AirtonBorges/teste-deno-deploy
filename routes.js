@@ -4,6 +4,6 @@ import teste from "./teste.js";
 const router = new Router();
 
 router
-  .get("/beers", teste)
+  .get("/teste", teste)
 
 export default router;
